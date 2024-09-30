@@ -6,7 +6,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.3.4</version>
-		<relativePath/> <!--   lookup parent from repository-->
+<<<<<<< HEAD
+		<relativePath/> <!-- arjunt  lookup parent from repository-->
+=======
+		<relativePath/> <!-- lookup parent from repository  -->
+>>>>>>> cb6ef75873fb7407bdf8bb312a5be1ce39908396
 	</parent>
 	<groupId>com.nit</groupId>
 	<artifactId>Project-Management</artifactId>
